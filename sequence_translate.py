@@ -124,7 +124,7 @@ species_list = list(penguins_df.species)
 ## Write a for-loop that translates each sequence and also gets molecular weight and computes the GC content
 ## of each translated sequence and adds those data to DataFrame
 # for key, value in cytb_seqs.items():
-#     aa_seq = nuc2aa_translate_function(value) # whichever function you prefer of #2 or #3
+#     aa_seq = translate_function(value) # whichever translation function you implement
 #     get the molecular weight of aa_seq
 #     get the GC content of the DNA sequence
 #     fill in empty cells in DF that you created above
