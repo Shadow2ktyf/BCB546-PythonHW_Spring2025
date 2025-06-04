@@ -37,3 +37,7 @@ Additionally, Dr. X has written some comments and pseudocode that outline other 
 * Submit the URL to your git repository to Python Assignment on Canvas by the end of the day on May 7, 2025.
 
 
+
+## Running tests
+
+Use `pytest -q` from the repository root to run the unit tests.
