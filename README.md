@@ -25,7 +25,7 @@ Additionally, Dr. X has written some comments and pseudocode that outline other 
     * `sequence_translate.py`
     * `penguins_mass.csv`
     * `penguins_cytb.fasta`
-* Be sure to install the BioPython library so that this script will work. 
+* Be sure to install the Biopython library so that this script will work. 
 * You will find explicit instructions and the code/comments from Dr. X in the file called `sequence_translate.py`. Specific tasks are enumerated (1-11) in the script file with comments at the top as well as in the necessary places in the code.
 * Create a new Jupyter notebook in your repository. 
     * In this notebook you will carefully annotate and execute the code already provided in `sequence_translate.py`. If you're unfamiliar with a bit of code, you can find lots of resources and information online. Be sure to cite information appropriately (by providing URLs and other relevant references). 
